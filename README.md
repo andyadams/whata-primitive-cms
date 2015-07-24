@@ -1,1 +1,3 @@
-# whata-primitive-cms
+# Whata Primitive CMS
+
+Just call main().
